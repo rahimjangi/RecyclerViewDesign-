@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerViewDesign</string>
+    <string-array name="countries">
+        <item>brazil</item>
+        <item>canada</item>
+        <item>china</item>
+        <item>colombia</item>
+        <item>france</item>
+        <item>germany</item>
+        <item>japan</item>
+        <item>me</item>
+        <item>spain</item>
+        <item>united_kingdom</item>
+        <item>united_states</item>
+    </string-array>
+    <string-array name="details">
+        <item>brazil you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>canada you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>china you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>colombia you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>france you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>germany you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>japan you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>me you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>spain you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>united_kingdom you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+        <item>united_states you use an image loading library like Picasso or Glide, you need to disable their fade animations to avoid messed up images. For Picasso use the</item>
+    </string-array>
+</resources>
